@@ -12,4 +12,5 @@ const execCommand = command => {
   })
 }
 
-execCommand('ls')
+//execCommand('ls')
+execCommand('node ./src/script --base=10')
